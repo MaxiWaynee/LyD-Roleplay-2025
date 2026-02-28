@@ -1,0 +1,57 @@
+#include <YSI\y_hooks>
+
+#include <Commands\Team\Supporter>
+#include <Commands\Team\Event-Supporter>
+#include <Commands\Team\Moderator>
+#include <Commands\Team\Administrator>
+#include <Commands\Team\Server-Manager>
+#include <Commands\Team\Admin-Fun>
+
+#include <Commands\Fraktionen\Gangs-Mafien>
+#include <Commands\Fraktionen\Executive>
+#include <Commands\Fraktionen\Ordnungsamt>
+#include <Commands\Fraktionen\Generell>
+#include <Commands\Fraktionen\SAMD>
+#include <Commands\Fraktionen\SA-NA>
+#include <Commands\Fraktionen\Agency>
+#include <Commands\Fraktionen\Nine-Demons>
+
+#include <Commands\Jobs\Bauer>
+#include <Commands\Jobs\Busfahrer>
+#include <Commands\Jobs\Trucker>
+#include <Commands\Jobs\Pilot>
+#include <Commands\Jobs\KFZ-Mechaniker>
+#include <Commands\Jobs\Anwalt>
+#include <Commands\Jobs\Straßenreiniger>
+#include <Commands\Jobs\Muellmann>
+#include <Commands\Jobs\Gaertner>
+#include <Commands\Jobs\Schiffsfahrer>
+#include <Commands\Jobs\Geld-Transportfahrer>
+#include <Commands\Jobs\Eisverkaeufer>
+#include <Commands\Jobs\Detektiv>
+#include <Commands\Jobs\Pizzalieferant>
+#include <Commands\Jobs\Taxifahrer>
+#include <Commands\Jobs\Drogendealer>
+#include <Commands\Jobs\Waffendealer>
+#include <Commands\Jobs\Taschendieb>
+#include <Commands\Jobs\Prostutierte>
+#include <Commands\Jobs\Wantedhacker>
+#include <Commands\Jobs\Autodieb>
+#include <Commands\Jobs\Hotdogverkaeufer>
+
+#include <Commands\Animationen>
+#include <Commands\Expertensystem>
+#include <Commands\Fahrzeug>
+#include <Commands\Haus>
+#include <Commands\Chat>
+#include <Commands\Firma>
+#include <Commands\Allgemein>
+#include <Commands\Handy>
+#include <Commands\Spieler>
+#include <Commands\Versicherungen>
+#include <Commands\Angeln>
+#include <Commands\Biz>
+#include <Commands\Tankstelle>
+#include <Commands\Raub>
+#include <Commands\Ausgeklammert>
+#include <Commands\Event>
